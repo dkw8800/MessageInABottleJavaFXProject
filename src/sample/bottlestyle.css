@@ -1,4 +1,4 @@
-#scene1
+.label
 {
-    background-image: url("water.jpg");
+    -fx-background-color:blue;
 }
